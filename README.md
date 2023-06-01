@@ -1,1 +1,2 @@
-# Helpify
+# KurunjiHacks
+ Project for kurunji Hacks
